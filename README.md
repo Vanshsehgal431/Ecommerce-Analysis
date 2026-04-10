@@ -49,3 +49,6 @@ Ecommerce/
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## Live App 
+https://ecommerce-analysis-8tdnumzykpypwwju9b93v2.streamlit.app/
