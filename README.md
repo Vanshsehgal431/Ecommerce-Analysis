@@ -1,4 +1,8 @@
 # 🛒 E-commerce Customer Behavior Analysis
+(
+## Live App 
+https://ecommerce-analysis-8tdnumzykpypwwju9b93v2.streamlit.app/
+)
 
 ## 📌 Overview
 This project analyzes customer behavior and revenue patterns using a real-world e-commerce dataset.  
@@ -50,5 +54,3 @@ Ecommerce/
 pip install -r requirements.txt
 streamlit run app.py
 
-## Live App 
-https://ecommerce-analysis-8tdnumzykpypwwju9b93v2.streamlit.app/
